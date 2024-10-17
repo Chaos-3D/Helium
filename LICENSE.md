@@ -1,7 +1,7 @@
 The MIT License (MIT)
 =====================
 
-Copyright © 2024 Chaos3D
+Copyright © 2024 Chaos3D Development Tea
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
